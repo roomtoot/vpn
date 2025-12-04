@@ -1,0 +1,23 @@
+.container{
+    color: red;
+}
+
+.container{
+    text-align: center;
+    font-size: 20px;
+    min-width: 100px;
+    max-width: 400px;
+    margin-left: 600px;
+}
+
+
+.work{
+    color: red;
+    margin-left: 600px;
+    font-size: 20px;
+}
+
+.img{
+    width: 400px;
+}
+
